@@ -1,2 +1,1 @@
-alx-backend-javascript
-README 
+Ecmascript 6 basics
